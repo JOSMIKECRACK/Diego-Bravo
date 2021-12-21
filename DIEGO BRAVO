@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Conceptos básicos de herramientas</title>
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+</head>
+<body bgcolor="#9d89ab">
+	<center>
+	<font size="6">
+	<h1>Conceptos básicos de web.</h1>
+	<nav>
+	</center>
+		<ul>
+		</ul>
+	</nav>
+				<div>
+					<p>NOMBRE: DIEGO BRAVO SUAREZ.</p>
+					<font size="4">
+					<h2 style="color: gold;"> HTML.</h2>
+					<p>HTML es un lenguaje de marcado que nos permite indicar la estructura de nuestro documento mediante etiquetas. Este lenguaje nos ofrece una gran adaptabilidad, una estructuración lógica y es fácil de interpre­tar tanto por humanos como por máquinas.Sin embargo, a lo largo de sus diferentes versiones, se han incorporado y suprimido diversas características, con el fin de hacerlo más eficiente y facilitar el desarrollo de páginas web compatibles con distintos navegadores y plataformas (PC de escritorio, portátiles, teléfonos inteligentes, tabletas, etc.) No obstante, para interpretar correctamente una nueva versión de HTML, los desarrolladores de navegadores web deben incorporar estos cambios y el usuario debe ser capaz de usar la nueva versión del navegador con los cambios incorporados. Normalmente los cambios son aplicados mediante parches de actualización automática (Firefox, Chrome) u ofreciendo una nueva versión del navegador con todos los cambios incorporados, en un sitio web de descarga oficial (Internet Explorer). Por lo que un navegador desactualizado no será capaz de interpretar correctamente una página web escrita en una versión de HTML superior a la que pueda interpretar, lo que obliga muchas veces a los desarrolladores a aplicar técnicas y cambios que permitan corregir problemas de visualización e incluso de interpretación de código HTML. </p>
+				</div>
+				<div><center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" width="400" height="300" title="HTML."></div></center>	
+				</div>
+				<div>
+					<font size="4">
+					<h3 style="color: gold;"> PAGINAS WEB.</h3>
+					<p>Una página web, página electrónica, página digital o ciberpágina, es un documento o información electrónica capaz de contener texto, sonido, vídeo, programas, enlaces, imágenes, hipervínculos y muchas otras cosas, adaptada para la llamada World Wide Web (WWW), y que puede ser accedida mediante un navegador web. Esta información se encuentra generalmente en formato HTML o XHTML, y puede proporcionar acceso a otras páginas web mediante enlaces de hipertexto. Frecuentemente también incluyen otros recursos como pueden ser hojas de estilo en cascada, scripts, imágenes digitales, entre otros.Las páginas web pueden estar almacenadas en un computador o en un servidor web remoto. El servidor web puede restringir el acceso únicamente a redes privadas, por ejemplo, en una intranet corporativa, o puede publicar las páginas en la World Wide Web. El acceso a las páginas web es realizado mediante una transferencia desde servidores, utilizando el protocolo de transferencia de hipertexto (HTTP).</p>
+				</div>
+				<div><center><img src="https://t-position.com/wp-content/uploads/2010/01/Paginas-web.jpg" width="400" height="300" title="PW."></div></center>	
+				</div>
+				<div>
+					<font size="4">
+					<h4 style="color: gold;"> PAGINAS ESTATICAS.</h4>
+					<p>Una página web estática (a veces llamada página plana o página estacionaria) es una página web que se entrega al navegador del usuario exactamente como está almacenada, en contraste con las páginas web dinámicas que son generadas por una aplicación web. En consecuencia, una página web estática muestra la misma información para todos los usuarios, de todos los contextos, con sujeción a las capacidades modernas de un servidor web para negociar el tipo de contenido o el idioma del documento cuando esas versiones están disponibles y el servidor está configurado para hacerlo.</p>
+				</div>
+				<div><center><img src="https://pinguinodigital.com/wp-content/uploads/2020/08/bloque-cms-1.jpg" width="400" height="300" title="PE."></div></center>	
+				</div>
+				<div>
+					<font size="4">
+					<h5 style="color: gold;"> PAGINAS DINAMICAS.</h5>
+					<p>Una página web dinámica es una página web generada bajo demanda, a diferencia de una página web estática. Su contenido varía en función de los datos como la hora, el nombre del usuario, las preferencias fijadas por el usuario, etc., que no son conocidos hasta el momento en que el usuario solicita la página. Por ejemplo, una sección de noticias o una ficha personal. También se habla de contenido dinámico, en referencia a los elementos dinámicos de una página web dinámica, tales como textos, imágenes, videos, ficheros descargables, etc.En contraposición, el contenido estático permanece invariable desde el momento en que su autor lo crea. Es decir, no depende de quién lo visualice ni en qué momento lo haga. Por ejemplo, un aviso legal.</p>
+				</div>
+				<div><center><img src="https://grupomng.com/wp-content/uploads/2020/11/paginas-web-dinamicas-799x399-1.png" width="400" height="300" title="PD."></div></center>	
+				</div>
+				<div>
+					<font size="4">
+					<h6 style="color: gold;"> PROTOCOLOS IP.</h6>
+					<p>El protocolo de internet (en inglés: Internet Protocol; cuya sigla es IP) es un protocolo de comunicación de datos digitales clasificado funcionalmente en la capa de red según el modelo internacional OSI.Su función principal es el uso bidireccional en origen o destino de comunicación para transmitir datos mediante un protocolo no orientado a conexión que transfiere paquetes conmutados a través de distintas redes físicas previamente enlazadas según la norma OSI de enlace de datos.</p>
+				</div>
+				<div><center><img src="https://i.ytimg.com/vi/7aWqEu2uHCk/maxresdefault.jpg" width="400" height="300" title="PIP."></div></center>
+				</div>
+				<div>
+					<font size="4">
+					<h7 style="color: gold;"> NAVEGADORES.</h7>
+					<p>Un navegador web (en inglés, web browser) es un software, aplicación o programa que permite el acceso a la Web, interpretando la información de distintos tipos de archivos y sitios web para que estos puedan ser vistos.La funcionalidad básica de un navegador web es permitir la visualización de documentos de texto, posiblemente con recursos multimedia incrustados. Además, permite visitar páginas web y hacer actividades en ella, es decir, enlazar un sitio con otro, imprimir, enviar y recibir correos, entre otras funcionalidades más.Los documentos que se muestran en un navegador pueden estar ubicados en la computadora donde está el usuario y también pueden estar en cualquier otro dispositivo conectado en la computadora del usuario o a través de Internet, y que tenga los recursos necesarios para la transmisión de los documentos (un software servidor web).</p>
+				</div>
+				<div><center><img src="https://upanama.e-ducativa.com/archivos/repositorio/6000/6126/html/historia.jpg" width="400" height="300" title="N."></div></center>
+				</div>
+				<div>
+					<font size="4">
+					<h8 style="color: gold;"> HOJAS DE ESTILOS TABLAS.</h8>
+					<p>En ocasiones, parece que en el mundo actual del desarrollo web las tablas estén algo marginadas. Se hace tanto caso a la norma de "¡no utilicéis tablas!" que a veces la gente se olvida de que en realidad la frase es: "No utilicéis tablas para la composición". Las tablas van muy bien para su objetivo original, que es mostrar datos tabulares. Por ello es útil saber cómo aplicarles estilos correctamente.Esta guía se centra en cómo aplicar CSS de manera eficaz para obtener estilos de tablas de datos claros y legibles. Además, también hablaremos de algunos requisitos habituales del diseño de tablas.</p>
+				</div>
+				<div><center><img src="https://lh4.googleusercontent.com/-pJ_hvjnx9T8/UnIudUEkFcI/AAAAAAAAAnY/CIgeruW4dE4/s505/CU01052D_2.png" width="400" height="300" title="HET."></div></center>
+				</div>
+				<div>
+					<font size="4">
+					<h9 style="color: gold;"> PLANTILLAS.</h9>
+					<p>Una plantilla o dispositivo de interfaz, suele proporcionar una separación entre la forma o estructura y el contenido. Es un medio o aparato o sistema, que permite guiar, portar, o construir, un diseño o esquema predefinido.Una plantilla agiliza el trabajo de reproducción o de muchas copias idénticas o casi idénticas (que no tiene que ser tan elaborado, sofisticado o personal). Si se utilizan plantillas en todos los terrenos de la industria y la tecnología. Una plantilla puede servir como muestra base de una diversidad sobre la que comparten elementos comunes (patrón) y que en sí es lo que constituye la plantilla.En relación con la edición o composición de textos o imágenes, se compone de cajas y líneas, con unos tamaños y márgenes, para facilitar la escritura de artículos o cartas, con títulos, fotos y diagramas.En relación con la mecánica, puede ser una forma específica de ángulos y medidas, tal que colocando las partes constituyentes en su sitio permite un ensamblaje calibrado y uniforme e identificar la carencia de algún elemento.</p>
+				</div>
+				<div><center><img src="https://magazine.joomla.org/images/easyblog_images/10652/acb1c7a29e4afb847e63ea0455deea1b_XL.jpg" width="400" height="300" title="HET."></div></center>
+				</div>
+				<div>
+					<font size="4">
+					<h10 style="color: gold;"> MARCOS DE FRAME.</h10>
+					<p>Los frames (en inglés frame = cuadro, bastidor o marco) es un elemento implementado por Netscape, que permite dividir la pantalla en varias áreas independientes unas de otras, y por tanto con contenidos distintos, aunque puedan estar relacionados.</p>
+				</div>
+				<div><center><img src="https://www.ibiblio.org/pub/Linux/docs/LuCaS/Manuales-LuCAS/doc-curso-html/doc-curso-html/img/fig8-13.png" width="400" height="300" title="HET."></div></center>
+				</div>
+				<div>
+					<font size="4">
+					<h11 style="color: gold;"> HIPERVINCULOS LOCALES Y EXTERNOS.</h11>
+					<p>Hipervínculo local o interno: Un hipervínculo local o interno es un vínculo a una página que se encuentra en el mismo sitio web (sitio local). Hipervínculo externo: Un hipervínculo externo es un vínculo a otro sitio web en Internet (sitio externo). Es un vínculo a cualquier otro lugar fuera del sitio actual.</p>
+				</div>
+				<div><center><img src="https://pinguinodigital.com/wp-content/uploads/2020/06/que-son-hipervinculos-3-1024x576.jpg" width="400" height="300" title="HET."></div></center>
+				</div>
+				<div>
+					<font size="4">
+					<h12 style="color: gold;"> Software de edición de sitios web.</h12>
+					<p>Un editor de páginas web es una aplicación diseñada con el fin de facilitar la creación y edición de documentos HTML o XHTML. Su complejidad puede variar desde la de un simple editor de texto plano, entornos WYSIWYG, hasta editores WYSIWYM.También llamado editor de texto plano. Este tipo de editor suele ser muy sencillo. Dos ejemplos son Notepad o Bloc de Notas (incluido en Windows) y Kate (GNU/Linux). Con cualquiera de los dos bastaría para escribir las líneas de código necesarias para diseñar una página Web.Es una versión ligeramente más sofisticada que la anterior. Suelen constar de un par de ventanas. Una área de trabajo, donde se teclea el código HTML y el texto que se quiere incluir en la página, y en la otra se visualiza el resultado en tiempo real. En otras palabras se obtiene una previsualización del documento generado. Lo que significa que no se tiene que guardar el documento, previamente, antes de volver a abrirlo con el navegador para comprobar el resultado.El término WYSIWYG es el acrónimo de What You See Is What You Get, que traducido al castellano quiere decir: "lo que tú ves es lo que obtienes", en los que de manera visual se pueden colocar distintos elementos sobre una vista previa de la página, encargándose el programa de generar el documento HTML.</p>
+				</div>
+				<div><center><img src="https://www.hostingexperto.es/wp-content/uploads/2016/12/programas-para-crear-paginas-web.jpg" width="400" height="300" title="HET."></div></center>
+				</div>
+				<div>
+					<font size="4">
+					<h13 style="color: gold;"> Publicador de sitio web.</h13>
+					<p>La publicación web, o "publicación en línea", es el proceso de publicación de contenido en Internet. Incluye crear y cargar sitios web, actualizando páginas weby publicación blogs en línea. El contenido publicado puede incluir texto, imágenes, videos y otros tipos de medios.</p>
+				</div>
+				<div><center><img src="https://www.aventura.digital/wp-content/uploads/2018/12/71226-Publicador-de-Sitio-1280x720.png" width="400" height="300" title="HET."></div></center>
+				</div>
+				<div>
+					<font size="4">
+					<h14 style="color: gold;"> Dominio.</h14>
+					<p>Un dominio de internet es un nombre único que identifica a una subárea de internet. El propósito principal de los nombres de dominio en Internet y del sistema de nombres de dominio, es traducir las direcciones IP de cada activo en la red, a términos memorizables y fáciles de encontrar.</p>
+				</div>
+				<div><center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSXUGkbFmht-n3K3q1aon1P7LrkiC4hLKJ47pNdJjWPQrSiGbjOFmM4NmpgDEgipWSN9c&usqp=CAU" width="400" height="300" title="HET."></div></center>
+				</div>
+				<div>
+					<font size="4">
+					<h15 style="color: gold;"> Alojamiento web.</h15>
+					<p>El alojamiento web (en inglés web hosting) es el servicio que provee a los usuarios de Internet un sistema para poder almacenar información, imágenes, vídeo, o cualquier contenido accesible vía web. Es una analogía de «hospedaje o alojamiento en hoteles o habitaciones» donde uno ocupa un lugar específico, en este caso la analogía alojamiento web o alojamiento de páginas web, se refiere al lugar que ocupa una página web, sitio web, sistema, correo electrónico, archivos etc. en internet o más específicamente en un servidor que por lo general hospeda varias aplicaciones o páginas web.</p>
+				</div>
+				<div><center><img src="https://definicion.de/wp-content/uploads/2015/09/Alojamientoweb.jpg" width="400" height="300" title="HET."></div></center>
+				</div>
+				<div>
+					<font size="4">
+					<h15 style="color: gold;"> Solucion web.</h15>
+					<p>Estas soluciones son un conjunto de servicios destinados a proporcionar una alta visibilidad en internet, un diseño atractivo, sencilla navegabilidad, una alta conversión visita-cliente y accesibilidad desde dispositivos móviles. Y es que nuestro desarrollo web a través del CMS permite gestionar con facilidad cualquier cambio necesario para su sitio. Dichos cambios consisten en modificar sus imágenes, cambiar o añadir textos, estructurar de forma más clara el  diseño web para facilitar la navegación y crear nuevos apartados o servicios que ofrecer a sus clientes y hasta incluir enlaces.</p>
+				</div>
+				<div><center><img src="https://seosolutions.es/wp-content/uploads/2014/10/soluciones-web.jpg" width="400" height="300" title="HET."></div></center>
+				</div>
+				<div>
+					<font size="4">
+					<h16 style="color: gold;"> Plataforma digital.</h16>
+					<p>Una plataforma digital es un lugar de Internet, portal o cibersitio, que sirve para almacenar diferentes tipos de información tanto personal como a nivel de negocios. Estas plataformas funcionan con determinados tipos de sistemas operativos y ejecutan programas o aplicaciones con diferentes contenidos, como pueden ser juegos, imágenes, texto, cálculos, simulaciones y vídeo, entre otros, que se pueden considerar agrupados en una colección de herramientas y servicios que una organización utiliza para desarrollar una estrategia digital. Las plataformas digitales también se pueden concebir como sistemas que pueden ser programados y personalizados por desarrolladores externos, como los usuarios, y de esta forma pueden ser adaptados a innumerables necesidades y asuntos que ni siquiera los creadores de la plataforma original habían contemplado, resultando un tipo de redes sociales, lo que permite mantener el contacto con amigos, familiares, usuarios en general, lo que incentiva la participación y su uso.</p>
+				</div>
+				<div><center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Digital_adoption_platform_components.png/220px-Digital_adoption_platform_components.png" width="400" height="300" title="HET."></div></center>
+				</div>
+				<div>
+					<font size="7">
+					<center><h17 style="color: green;"> Conceptos básicos de herramientas multimedia.</h17></center>
+				</div>
+				<div>
+					<font size="4">
+					<h18 style="color: gold;"> Herramientas de dibujos y pinturas.</h18>
+					<p>Las herramientas de Diseño Gráfico y Dibujo que habitualmente utilizamos en nuestro trabajo, a veces, no están a mano. Cuando nos trasladamos fuera del estudio podemos echar de menos una aplicación que reúna un lienzo en blanco, unos pinceles, o la posibilidad de trabajar con imágenes y textos. En esos momentos, resultan muy útiles las herramientas de Diseño Gráfico y Dibujo que ofrecen algunas APPS.Hemos revisado seis aplicaciones que ofrecen herramientas e interfaces interesantes que nos ayudarán con el trabajo de Diseño Gráfico y de Dibujo empleando nuestros móviles o tablets. La mayor parte de ellas, nos parecen interesantes en su versión gratuita, pero alguna se queda corta si exigimos más prestaciones; en ese caso, se ofrecen ediciones Pro o de pago.</p>
+				</div>
+				<div><center><img src="https://slideplayer.es/3121985/11/images/slide_1.jpg" width="400" height="300" title="Herramientas de dibujo y pintura."></div></center>
+				<div>
+					<font size="4">
+					<h19 style="color: gold;"> MAPAS DE BITS.</h19>
+					<p>Una imagen en mapa de bits, imagen ráster (calcos del inglés) o imagen de píxeles es una estructura o fichero de datos que representa una rejilla rectangular de píxeles o puntos de color, denominada matriz, que se puede visualizar en un monitor, papel u otro dispositivo de representación.A las imágenes en mapa de bits se las suele definir por su altura y grosor (en píxeles) y por su profundidad de color (en bits por píxel), que determina el número de colores distintos que se pueden almacenar en cada punto individual, y por lo tanto, en gran medida, la calidad del color de la imagen.Los gráficos en mapa de bits se distinguen de los gráficos vectoriales en que estos últimos representan una imagen a través del uso de objetos geométricos como curvas de Bézier y polígonos, no del simple almacenamiento del color de cada punto en la matriz. El formato de imagen matricial está ampliamente extendido y es el que se suele emplear para tomar fotografías digitales y realizar capturas de vídeo. Para su obtención se usan dispositivos de conversión analógica-digital, tales como escáneres y cámaras digitales.</p>
+				</div>
+				<div><center><img src="https://crehana-blog.imgix.net/media/filer_public/fe/6b/fe6bbd97-afc5-4da4-bc1c-18e1387dd798/mapa-de-bits-ejemplo.png?auto=format&q=50" width="400" height="300" title="Mapas de bits."></center></div>
+				<div>
+					<font size="4">
+					<h20 style="color: gold;"> DIBUJOS VECTORIALES.</h20>
+					<p>Una imagen vectorial es una imagen digital formada por objetos geométricos dependientes (segmentos, polígonos, arcos, muros, etc.), cada uno de ellos definido por atributos matemáticos de forma, de posición, etc. Por ejemplo un círculo de color rojo quedaría definido por la posición de su centro, su radio, el grosor de línea y su color.Este formato de imagen es completamente distinto al formato de las imágenes de mapa de bits, también llamados imágenes matriciales, que están formados por píxeles. El interés principal de los gráficos vectoriales es poder ampliar el tamaño de una imagen a voluntad sin sufrir la pérdida de calidad que sufren los mapas de bits. De la misma forma, permiten mover, estirar y retorcer imágenes de manera relativamente sencilla. Su uso también está muy extendido en la generación de imágenes en tres dimensiones tanto dinámicas como estáticas.Todos los ordenadores actuales traducen los gráficos vectoriales a mapas de bits para poder representarlos en pantalla al estar esta constituida físicamente por píxeles.</p>
+					<div><center><img src="https://stockmission.files.wordpress.com/2013/07/mike.jpg" width="400" height="300" title="Dibujos vectoriales."></center></div>
+				</div>
+				<div>
+					<font size="4">
+					<h21 style="color: gold;"> Animaciones en 2D y 3D.</h21>
+					<p>En términos de experiencia visual, la animación 2D es comparativamente poco realista. Además, se procesa en un espacio bidimensional, tratando solo con la longitud y el ancho. En 3D, las imágenes creadas se definen en 3 dimensiones: largo, ancho y alto. Este hecho les otorga una sensación realista y ayuda a crear una percepción de profundidad.En la animación tradicional, la animación 2D se considera más complicada que la animación 3D porque presenta dos requisitos indispensables para los animadores. Que, por un lado, dibujen 24 cuadros por segundo. Y que, por otro lado, tengan un conocimiento profundo de los principios de la animación. Es decir, la anatomía, los movimientos y la física detrás de esos movimientos. Los animadores deben manipular cada fotograma en una animación 2D, lo que lo hace más largo en la mayoría de las marcas y un poco más complejo que la animación 3D.La animación 2D es generalmente más barata que la animación 3D, aunque puede diferir de un proyecto a otro. Por lo general, el coste de un video animado 2D tradicional de 60 segundos está entre 800 y 4.000 €, mientras que el coste de un video 3D de 60 segundos es de aproximadamente 6.000 a 8.000 €. Esto se debe al hecho que la animación 3D requiere el uso de software y plataformas complejos, mientras que la animación 2D se realiza principalmente de forma manual y se puede compilar utilizando un software de animación 2D gratuito.La mayor diferencia entre la animación 2D y 3D es su proceso de animación de video. Si dividimos el proceso en 3 etapas: preproducción, producción y posproducción, se puede ver cuánto más compleja y lenta es la animación 3D respecto a la 2D.</p>
+				</div>
+				<div><center><img src="https://i.ytimg.com/vi/U7vzI3xsT8c/maxresdefault.jpg" width="400" height="200" title="HET."></div></center>
+				</div>
+				<div>
+					<font size="4">
+					<h22 style="color: gold;"> EDICION DE FOTOGRAFIA.</h22>
+					<p>La edición digital de imágenes se ocupa de la edición apoyada en computadoras de imágenes digitales , comúnmente un gráfico rasterizado, en la mayoría de los casos fotos o documentos escaneados. Estas imágenes son editadas para optimizarlas, manipularlas, retocarlas, o agregar algún objeto o cosa que está imagen previamente no poseía con el fin de alcanzar la meta deseada. Una de las metas puede ser eliminar las fallas que pueden haberse producido durante el escanéo o al fotografiar, por ejemplo sobreexposición, bajaexposición, falta de contraste, ruido en la imagen, efecto de los ojos rojos, paradoja de las líneas paralelas en perspectiva, etc. Estas fallas se producen por defectos técnicos en los aparatos fotográficos, escáner, condiciones de trabajo precarias, fallas en la operación u originales defectuosos.Las imágenes al lado derecho muestran algunas de las potencialidades de la edición de imágenes: la imagen superior se ve oscura, el texto difuso y el motivo fuera de centro. La imagen inferior está corregida y se ve más nítida, mejor iluminada y el objeto, puesto más al centro, se ve más presente.El retoque tradicional es reemplazado cada vez más por la edición digital, a menudo la edición de imágenes digitales está incluida dentro del proceso de impresión digital.No se debe confundir la edición de imágenes con el procesamiento digital de señales ni con el diseño gráfico.</p>
+					<div><center><img src="https://icdn.dtcn.com/image/digitaltrends_es/130-photo-pos-pro-screenshot-500x500.jpg" width="400" height="300" title="EF."></center></div>
+				</div>
+				<div>
+					<font size="4">
+					<h23 style="color: gold;"> SOFTWARE DE EDICION GRAFICA Y EDICION DE SONIDO.</h23>
+					<p>Un editor de gráficos rasterizados o editor de imágenes rasterizadas es una aplicación que permite al usuario crear y editar imágenes de gráficos rasterizados de forma interactiva y almacenarlas en la computadora en un formato de archivo gráfico, como JPEG, PNG, GIF y TIFF.Un editor de audio es una aplicación informática usada para editar audio, es decir, manipular audio digital. Los editores de audio son la pieza de software principal en las estaciones de trabajo de audio digital.</p>
+				</div>
+				<div><center><img src="https://www.profesionalreview.com/wp-content/uploads/2016/09/Adobe-Audition-windows-10-audio-editing-tool-editor-audio-1280x720.jpg" width="400" height="300" title="HET."></div></cente>
+				</div>
+				<div>
+					<font size="7">
+					<center><h24 style="color: springgreen;"> Aplicaciones de edición y diseño de soluciones web.</h24></center>
+				</div>
+				<div>
+					<font size="4">
+					<h25 style="color: gold;">Manejadores de contenidos de imagen.</h25>
+					<p>Los gestores de contenidos, o técnicamente sistemas de gestión de contenidos (en inglés Content Management System o CMS), son la herramienta con la que muchos nos encontramos para subir texto, fotografías o vídeos a un sitio web, propio o ajeno.La función del CMS es crear y administrar contenido de páginas web de una manera práctica y, en la mayoría de los casos, sin necesidad de conocer programación, ya que todo funciona mediante menús y campos a rellenar tipo WYSIWYG (What You See Is What You Get o Lo que Ves Es Lo Que Obtienes).</p>
+				</div>
+				<div><center><img src="https://www.antevenio.com/wp-content/uploads/2017/06/los-6-mejores-gestores-de-contenido-CMS.jpg" width="400" height="300" title="HET."></div></cente>
+				</div>
+				<div>
+					<font size="4">
+					<h26 style="color: gold;">Manejadores de contenidos de audio y video.</h26>
+					<p>Es un sistema de gestión de contenidos que permite desarrollar sitios web dinámicos e interactivos. Permite crear, modificar o eliminar contenido de un sitio web de manera sencilla a través de un "panel de administración". Es un Sistema de Gestión de Contenidos, como mismo lo es WordPress, Blogger, u otros menos conocidos como Drupal y Joomla. Con Squarespace puedes crear sitios web de diferentes tipos como blogs, tiendas online, o portafolios. Es un sistema de gestión de contenidos o CMS libre,1 modular, multipropiedad y muy configurable que permite publicar artículos, imágenes, archivos y que también ofrece la posibilidad de otros servicios añadidos como foros, encuestas, votaciones, blogs, administración de usuarios y permisos. Es un software de código abierto, así que no hay que pagar licencias. Moodle te va a permitir crear perfiles de estudiantes, profesores, o administradores.</p>
+				</div>
+				<div><center><img src="https://www.loopeando.com/wp-content/uploads/2016/11/cms-1200x793.png" width="400" height="300" title="HET."></div></cente>
+				</div>
+				<div>
+					<font size="4">
+					<h27 style="color: gold;">Software de edición de páginas web de ambiente privativo y libre.</h27>
+					<p>En general, el software puede comercializarse como software libre o como software privativo.Software libre: Es aquel software que se distribuye bajo licencia que permite las llamadas 4 libertades: libertad de uso, distribución, copia y modificación a todos los usuarios que lo han adquirido. Es decir una vez obtenido el mismo, puede ser usado, copiado, estudiado, modificado, y redistribuido libremente de varias formas.Software privativo o propietario: En este software, la persona física o jurídica (compañía, empresa, universidad, etc.), que posee los derechos de explotación sobre el software, tiene la posibilidad de controlar y restringir los derechos del usuario sobre el programa limitando una o varias de las cuatro libertades. Las condiciones en las que el usuario podrá utilizar el programa, se establecen en las Licencias de Usuario Final (End User License Agreement -EULA según sus siglas en inglés).En ambos casos tanto en el Software como en el resto de material se incorporará la inscripción: Copyright (Año de creación) Universitat Politècnica de València</p>
+				</div>
+				<div><center><img src="https://www.redusers.com/noticias/wp-content/uploads/2011/05/seguridad.png" width="400" height="300" title="HET."></div></cente>
+				</div>
+				<div>
+					<center><iframe src="https://www.youtube.com/embed/FjKsb4WQIlQ" width="600" height="400">
+						
+					</iframe></center>
+				</div>
+				<div>
+					<div><center><img src="http://www.periodicodigitalgratis.com/gratis/imagen/5822_20170904060930.png" width="100" height="100" title="NID."></div></cente>
+				</div>
+			</div>
+		</div>
+		<div class="menu-secundario"></div>
+	</div>	
+</body>
+</html>
